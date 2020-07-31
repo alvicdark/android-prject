@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exchange2</string>
+    <string name="amount">Amount</string>
+    <string name="canada">canada</string>
+    <string name="select_only_one_country">select only one country</string>
+    <string name="britain">Britain</string>
+    <string name="enter_amount_in_kenyan_shillings">enter amount in kenyan Shillings</string>
+    <string name="south_africa">South Africa</string>
+    <string name="exchange">EXCHANGE</string>
+    <string name="usa">USA</string>
+</resources>
